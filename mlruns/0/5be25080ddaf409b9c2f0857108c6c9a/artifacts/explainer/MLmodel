@@ -1,0 +1,20 @@
+artifact_path: explainer
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.shap
+    model_path: explainer.shap
+    python_version: 3.12.3
+    underlying_model_flavor: unknown
+  shap:
+    code: null
+    serialized_explainer: explainer.shap
+    shap_version: 0.47.2
+    underlying_model_flavor: unknown
+mlflow_version: 2.22.0
+model_uuid: aa4c0ecaaf9c4e4583e9d67d6a61f79f
+prompts: null
+run_id: 5be25080ddaf409b9c2f0857108c6c9a
+utc_time_created: '2025-05-31 12:53:48.722187'

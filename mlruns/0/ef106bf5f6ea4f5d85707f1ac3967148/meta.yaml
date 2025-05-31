@@ -1,0 +1,15 @@
+artifact_uri: file:///home/alejandro/Documents/u/cursos/productos/PRE-12-mlflow-evaluacion-alvelezp/mlruns/0/ef106bf5f6ea4f5d85707f1ac3967148/artifacts
+end_time: 1748696228668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef106bf5f6ea4f5d85707f1ac3967148
+run_name: clean-bird-373
+run_uuid: ef106bf5f6ea4f5d85707f1ac3967148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748696190210
+status: 4
+tags: []
+user_id: alejandro

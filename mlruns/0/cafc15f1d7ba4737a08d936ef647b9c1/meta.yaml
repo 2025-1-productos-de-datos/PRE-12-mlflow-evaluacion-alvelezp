@@ -1,0 +1,15 @@
+artifact_uri: file:///home/alejandro/Documents/u/cursos/productos/PRE-12-mlflow-evaluacion-alvelezp/mlruns/0/cafc15f1d7ba4737a08d936ef647b9c1/artifacts
+end_time: 1748696264941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cafc15f1d7ba4737a08d936ef647b9c1
+run_name: burly-owl-617
+run_uuid: cafc15f1d7ba4737a08d936ef647b9c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748696235868
+status: 3
+tags: []
+user_id: alejandro
